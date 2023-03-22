@@ -37,19 +37,97 @@
 - **[HTML]**
 - **[CSS]**
 
+To get a local copy up and running, follow these steps.
 
-<!-- GETTING STARTED -->
+### Prerequisites
 
-## 💻 Getting Started <a name="getting-started"></a>
+In order to run this project you need: Github and Google chrome
 
+<!--
+Example command:
 
-To get a local copy up and running follow these simple example steps.
+```sh
+ gem install rails
+```
+ -->
 
+### Setup
 - Choose a directory
 - Open a Terminal
 - git clone https://github.com/Gakiiberyl/Portfolio-finish-mobile-version1.git
-- go to directory "Portfolio-finish-mobile-version1"
+- go to directory " Portfolio-finish-mobile-version1"
 - npm install
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:  git clone https://github.com/Gakiiberyl/Portfolio-finish-mobile-version1.git
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command: open index.html with google chrome
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+
 
 <!--
 Example command:
