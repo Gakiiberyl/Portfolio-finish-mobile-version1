@@ -15,7 +15,6 @@
 
 # 📖 [Portfolio: finish mobile version] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Portfolio: finish mobile version]** is a mobile first poject describing my skills and qualifications.
 ## Built With
@@ -24,8 +23,6 @@
 - Figma
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[CSS flexbox]**
 - **[HTML]**
@@ -42,7 +39,6 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Forms]**
 - [ ] **[Javascript]**
