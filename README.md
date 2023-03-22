@@ -37,6 +37,7 @@
 - **[HTML]**
 - **[CSS]**
 
+## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -101,11 +102,6 @@ Example command:
 ```
 
  -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!--
 Example command:
 
@@ -126,8 +122,6 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-
-
 
 <!--
 Example command:
