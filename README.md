@@ -38,6 +38,41 @@
 - **[CSS]**
 
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running follow these simple example steps.
+
+- Choose a directory
+- Open a Terminal
+- git clone https://github.com/Gakiiberyl/Portfolio-finish-mobile-version1.git
+- go to directory "Portfolio-finish-mobile-version1"
+- npm install
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+
 ## Authors
 
 👤 **berylcl**
